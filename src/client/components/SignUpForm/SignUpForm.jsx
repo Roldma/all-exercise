@@ -37,7 +37,10 @@ class SignUpForm extends Component {
 
   componentDidUpdate() {
     if (this.allFieldsValid()) {
+      const { collectedInfo } = this.state;
+      const { firstName, lastName, email } = collectedInfo;
       console.log(this.state.collectedInfo);
+      console.log(`email: ${email} first name:${firstName} last name:${lastName}`);
     }
   }
 

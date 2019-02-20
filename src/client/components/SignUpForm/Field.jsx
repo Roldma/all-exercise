@@ -51,7 +51,7 @@ const Field = (props) => {
 };
 
 const {
-  bool, string, exact, func, arrayOf, oneOfType, oneOf,
+  bool, string, func, arrayOf, oneOfType,
 } = PropTypes;
 
 Field.propTypes = {

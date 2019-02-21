@@ -9,9 +9,9 @@
   3. Execute the script:
      - In the terminal type: `./bootstrap.sh`
   4. The script will:
-     - create a build file
-     - start a local server on port 3333
-     - open the browser to localhost
+     - Create a build file
+     - Start a local server on port 3333
+     - Open the browser to http://Localhost:3333 (Component should show up in browser in a couple seconds. If not, then refresh page.)
   5. Results should log in console on final form submission.
   
 

@@ -1,6 +1,6 @@
 # all-exercise
 # Clone this repo and follow steps
-    
+##### note: Project runs on a local node server
 ### Linux/Mac instructions
   1. Navigate to project directory:
      - Type in the terminal: `npm install`
